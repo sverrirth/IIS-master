@@ -28,3 +28,5 @@ And run it using NodeJS:
 ```
   node  app.js
 ```
+
+Authors: Sverrir, Pablo, Ismael
